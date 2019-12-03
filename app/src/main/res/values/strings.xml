@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Graduation Application</string>
+
+    <string name="search_item">버스 종류 선택</string>
+
+    <string-array name="search_array">
+        <item>저상 버스</item>
+        <item>모든 버스</item>
+    </string-array>
+
+</resources>
